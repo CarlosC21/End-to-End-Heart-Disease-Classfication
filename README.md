@@ -136,7 +136,7 @@ ST depression (oldpeak)
 
 These align well with medical intuition and clinical relevance.
 
-🛠 Tools & Libraries
+Tools & Libraries
 
 NumPy
 
