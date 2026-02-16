@@ -1,8 +1,8 @@
-Predicting Heart Disease Using Machine Learning
+# Predicting Heart Disease Using Machine Learning
 
 This project explores the use of Python-based machine learning techniques to predict the presence of heart disease using clinical patient data. The goal was to build and evaluate classification models capable of identifying whether a patient has heart disease based on medical attributes.
 
-Problem Statement
+# Problem Statement
 
 Given clinical parameters about a patient, can we accurately predict whether they have heart disease?
 
@@ -12,7 +12,7 @@ Target variable:
 
 1 → Heart disease
 
-Dataset
+# Dataset
 
 The dataset used is the Cleveland Heart Disease dataset from the UCI Machine Learning Repository.
 
@@ -50,7 +50,7 @@ Correlation matrix and heatmap visualization
 
 Distribution analysis of key features
 
-Key insights:
+# Key insights:
 
 Chest pain type (cp) and maximum heart rate (thalach) showed strong positive correlation with heart disease.
 
@@ -148,7 +148,7 @@ Seaborn
 
 Scikit-learn
 
-Conclusion
+# Conclusion
 
 Logistic Regression achieved strong and stable performance.
 
